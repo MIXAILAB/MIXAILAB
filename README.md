@@ -1,6 +1,6 @@
 ## Hi there 👋 Here is Multi-modal Intelligence Computing Lab@Shenzhen Institute of Advanced Technology
 
-Dr Wenjian Qin's  Laboratory at the University of Chinese Academy of Sciences.
+Dr [Wenjian Qin](https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en#)'s  Laboratory at the University of Chinese Academy of Sciences.
 Our lab focous on:
  - Physics-informed learning in Computational Imaging for Biomedical Optical Imaging
  - Deep learning-based radiotherapy treatment planning
