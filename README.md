@@ -9,7 +9,8 @@ Our lab focous on:
  - Mixed reality for surgical navigation and simulation medicine
 
 ✨News:
-  - Our paper [Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining](https://arxiv.org/abs/2407.03655) are accepted by MICCAI2024
+  - 2024.7：Our paper [Dual domain distribution disruption with semantics preservation: Unsupervised domain adaptation for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002007) are accepted by Medical Image Analysis(IF:10.7)
+  - 2024.6：Our paper [Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining](https://arxiv.org/abs/2407.03655) are accepted by MICCAI2024
 
 <!--
 **MIXAILAB/MIXAILAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
