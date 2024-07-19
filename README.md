@@ -7,8 +7,9 @@ Our lab focous on:
  - Computational Pathology for diagnosis and prognosis prediction
  - Multi-modal fusion learning for segmentation and classification
  - Mixed reality for surgical navigation and simulation medicine
+
 ✨News:
-  - Our paper Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining are accepted by MICCAI2024
+  - Our paper (Pathological Semantics-Preserving Learning for H&E-to-IHC Virtual Staining)[https://arxiv.org/abs/2407.03655] are accepted by MICCAI2024
 
 <!--
 **MIXAILAB/MIXAILAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
