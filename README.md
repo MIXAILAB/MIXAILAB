@@ -9,6 +9,7 @@ Our lab focous on:
  - Mixed reality for surgical navigation and simulation medicine
 
 ✨News:
+  - 2025.4: Our paper [SynMSE]()are accepted by Medical Image Analysis(IF:10.7).
   - 2025.2: Our paper [ASR-NeSurf: Alleviating structural redundancy in neural surface reconstruction for deformable endoscopic tissues by validity probability](https://www.sciencedirect.com/science/article/abs/pii/S014193822500037X#baep-article-footnote-id1) are accepted by Displays2025(IF:3.7).
   - 2024.12: Our paper[Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion](https://arxiv.org/html/2412.11106v1) are accepted by AAAI25
   - 2024.7：Our paper [Dual domain distribution disruption with semantics preservation: Unsupervised domain adaptation for medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002007) are accepted by Medical Image Analysis(IF:10.7)
